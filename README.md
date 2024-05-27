@@ -1,4 +1,4 @@
-# HomeoWorms <a href=""><img src="https://cdn-icons-png.flaticon.com/512/8662/8662375.png" align="right" width="150" ></a> 
+# HomeoWorms <a href=""><img src="https://cdn-icons-png.flaticon.com/512/4681/4681603.png" align="right" width="150" ></a> 
 ### Analysis Of The Distribution Of Developmental Gene Transcripts In The Intact Body Of The Annelids *Pygospio elegans*, *Platynereis dumerilii* And *Arenicola marina*
 
 ![image](https://github.com/LinaWhite15/HomeoWorms/assets/129277151/bd318b39-6b5b-4096-aebf-758b04b4d189)
