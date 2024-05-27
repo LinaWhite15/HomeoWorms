@@ -1,0 +1,97 @@
+((((((((
+M.musculus BarH-like-1 
+:0.72090,((
+Pdum BARX1 Ortholog
+:0.55960,
+Pele BARX1 Ortholog
+:0.55960):0.09632,
+Amar BARX1 Ortholog
+:0.65592):0.06499):0.17272,(
+C.elegans ceh-30 
+:0.86518,(
+D.melanogaster Distal-less 
+:0.72430,((
+A.japonica DLX-6-like 
+:0.51995,
+S.kowalevskii Distal-less-1 
+:0.51995):0.13416,(
+Amar DLX1 Ortholog
+:0.52907,
+Pdum DLX1 Ortholog
+:0.52907):0.12504):0.07018):0.14089):0.02844):0.02669,
+D.melanogaster Dmel_CG11085 
+:0.92031):0.00981,(((
+M.musculus NK2-3 
+:0.58011,(
+Pdum NKX2-3 Ortholog
+:0.34779,
+Amar NKX2-3 Ortholog
+:0.34779):0.23232):0.15785,(
+Pele NKX2-3 Ortholog
+:0.67427,
+C.elegans ceh-28 
+:0.67427):0.06369):0.06551,
+D.melanogaster NK-4 
+:0.80347):0.12665):0.03489,((
+D.melanogaster cad 
+:0.64210,
+Pdum cad Ortholog
+:0.64210):0.09007,
+Pele cad Ortholog
+:0.73217):0.23283):0.00667,(((((
+D.melanogaster Goosecoid 
+:0.60947,
+Pele GSC Ortholog
+:0.60947):0.04226,
+A.digitifera Goosecoid
+:0.65173):0.05975,
+C.briggsae CBR-CEN-45 
+:0.71148):0.17229,((
+D.melanogaster hbn 
+:0.66595,(
+Pele hbn Ortholog
+:0.42875,
+Pdum hbn Ortholog
+:0.42875):0.23719):0.12976,((
+B.acutorostrata Paired mesoderm homeobox protein 2 
+:0.28861,
+M.musculus PRRX2 
+:0.28861):0.30856,
+Pele PRRX2 Ortholog
+:0.59716):0.19854):0.08807):0.00633,(
+C.elegans Pax-6 
+:0.70836,(
+M.musculus Pax-6 
+:0.46996,(
+Pdum PAX6 Ortholog
+:0.36877,
+Pele PAX6 Ortholog
+:0.36877):0.10119):0.23840):0.18174):0.08157):0.05219,(((
+M.musculus PBX1 
+:0.32578,((
+Amar PBX1 Ortholog
+:0.20592,
+Pele PBX1 Ortholog
+:0.20592):0.02994,
+Pdum PBX1 Ortholog
+:0.23586):0.08992):0.59816,((
+D.melanogaster Hth-I
+:0.08399,
+D.melanogaster Hth-A
+:0.08399):0.80701,(
+C.elegans unc-62 
+:0.83617,(
+M.musculus SIX4 
+:0.63486,(
+D.melanogaster SIX4 
+:0.61462,(
+Pele SIX4 Ortholog
+:0.47950,
+Pdum SIX4 Ortholog
+:0.47950):0.13513):0.02023):0.20131):0.05483):0.03294):0.07533,(
+C.elegans ceh-44 
+:0.96083,
+Pele ceh-44 Ortholog
+:0.96083):0.03844):0.02458):0.03492,
+Pele DLX1 Ortholog
+:1.05878);
